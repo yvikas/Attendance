@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:1-77:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Vihan yadav\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\ce0afbf95beb464f95e0639b45bb2310\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Vihan yadav\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\ce0afbf95beb464f95e0639b45bb2310\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Vihan yadav\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\ce0afbf95beb464f95e0639b45bb2310\AndroidManifest.xml:20:5-43
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+		INJECTED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml
+application
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:11:5-75:19
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Vihan yadav\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\ce0afbf95beb464f95e0639b45bb2310\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Vihan yadav\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\ce0afbf95beb464f95e0639b45bb2310\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:16:9-40
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:12:10-74
+activity#com.android.attendance.activity.MainActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:18:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.android.attendance.activity.LoginActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:26:10-29:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:27:13-73
+activity#com.android.attendance.activity.MenuActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:30:10-33:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:32:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:31:13-72
+activity#com.android.attendance.activity.AddFacultyActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:34:10-37:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:35:13-78
+activity#com.android.attendance.activity.AddStudentActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:38:9-41:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:39:13-78
+activity#com.android.attendance.activity.ViewFacultyActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:44:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:43:13-79
+activity#com.android.attendance.activity.ViewStudentActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:46:9-49:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:48:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:47:13-79
+activity#com.android.attendance.activity.TestActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:50:9-53:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:52:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:51:13-72
+activity#com.android.attendance.activity.ViewStudentByBranchYear
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:54:10-57:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:56:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:55:13-83
+activity#com.android.attendance.activity.AddAttandanceSessionActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:58:11-61:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:60:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:59:13-88
+activity#com.android.attendance.activity.AddAttendanceActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:62:10-65:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:64:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:63:13-81
+activity#com.android.attendance.activity.ViewAttendanceByFacultyActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:66:10-69:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:67:13-91
+activity#com.android.attendance.activity.ViewAttendancePerStudentActivity
+ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:70:10-73:20
+	android:label
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:72:13-45
+	android:name
+		ADDED from F:\projects\AndroidAttendanceSystem Project\app\src\main\AndroidManifest.xml:71:13-92
